@@ -1,1 +1,4 @@
 Data Engineering Indonesia
+How to start
+-SQL
+-Python
